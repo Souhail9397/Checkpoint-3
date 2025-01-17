@@ -43,7 +43,7 @@
   
 ➡️ Ouvrir l'**Explorateur de Fichiers** et se rendre dans `DossiersIndividuels (F:)`  
   
-➡️ Créer un nouveau fichier "lionel.lemarchand" et renommer le dossier de kelly.rhameur en "kelly.rhameur-ARCHIVE"  
+➡️ Créer un nouveau dossier "lionel.lemarchand" et renommer le dossier de kelly.rhameur en "kelly.rhameur-ARCHIVE"  
   
 ![image](https://github.com/user-attachments/assets/6f89659a-2249-4cb2-9e5a-782632745b7a)  
   
