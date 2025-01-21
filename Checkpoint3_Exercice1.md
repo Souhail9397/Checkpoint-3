@@ -100,7 +100,11 @@ Naviguer jusqu'à la GPO comme dans la capture d'écran ci-dessous, et configure
   
 Montage des lecteurs E: et F:  
   
-![image](https://github.com/user-attachments/assets/4c7edfad-8e9f-456a-a84e-f06a877f522d) ![image](https://github.com/user-attachments/assets/1d6abf4b-8b5a-417b-8fb4-619bc7c7fda4)
+![image](https://github.com/user-attachments/assets/4c7edfad-8e9f-456a-a84e-f06a877f522d) ![image](https://github.com/user-attachments/assets/1d6abf4b-8b5a-417b-8fb4-619bc7c7fda4)  
+  
+![image](https://github.com/user-attachments/assets/462bab04-8655-4c52-90ce-3de06ed494eb)
+
+
 
 
 
