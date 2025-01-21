@@ -92,9 +92,20 @@ Naviguer jusqu'à la GPO comme dans la capture d'écran ci-dessous, et configure
 `gpupdate /force`  
   
 ----  
-**Q.1.3.1**
+## Partie 3 : Lecteurs réseaux  
   
-![image](https://github.com/user-attachments/assets/8dc9ca71-cfc6-4362-bd66-e5bf2e5ba5d7)  
+**Q.1.3.1**  
+  
+![image](https://github.com/user-attachments/assets/2f2b6446-9ba2-4d9f-a515-ed6bb759fd31)  
+  
+Montage des lecteurs E: et F:  
+  
+![image](https://github.com/user-attachments/assets/4c7edfad-8e9f-456a-a84e-f06a877f522d) ![image](https://github.com/user-attachments/assets/1d6abf4b-8b5a-417b-8fb4-619bc7c7fda4)
+
+
+
+
+
   
 
   
