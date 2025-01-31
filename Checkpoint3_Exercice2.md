@@ -93,5 +93,47 @@ Les types de systèmes de stockage utilisés sont RAID et LVM
   
 Les règles actuellement appliquées sur Netfilter sont les suivantes :  
   
-![image](https://github.com/user-attachments/assets/74822015-fdb9-41a4-bd51-79734ebf10e5)
+![image](https://github.com/user-attachments/assets/ae9dfb7f-e954-4023-9704-e617f95fe6c7)  
+  
+**Q.2.5.2**  
+  
+----
+Les communications acceptées sont :  
+  
+➡️ Suivi des connexions préétablies (CT)  
+  
+➡️ iifname (comparaison avec le nom de l'interface)  
+  
+➡️ ip6 nexthdr ipv6-icmp  
+  
+➡️ Protocole ip icmp   
+  
+➡️ TCP dport 22  
+  
+----
+**Q.2.5.3**  
+  
+Les types de communications interdites sont :  
+  
+➡️ **policy drop** : toutes les communications qui ne sont pas autorisées  
+  
+➡️ **ct state invalid drop** : paquets ne pouvant pas être identifiés  
+  
+----
+**Q.2.5.4**  
+  
+![image](https://github.com/user-attachments/assets/6bdb7688-7628-47c8-856e-89bae79d748e)  
+  
+## Partie 6 : Analyse de logs  
+  
+**Q.2.6.1**  
+  
+![image](https://github.com/user-attachments/assets/9aec922e-8dc7-43a2-beb4-6e9feb159225)
+
+
+  
+
+  
+
+
 
